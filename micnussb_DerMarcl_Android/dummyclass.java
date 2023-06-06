@@ -4,7 +4,9 @@ public class dummyclass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		public void thisIsANewMethod() { }
+		public void thisIsANewMethod() {
+			System.Out.println("Krasse Line");
+		}
 	}
 //haweduttn du nuttn
 }
