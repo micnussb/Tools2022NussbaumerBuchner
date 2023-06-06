@@ -4,8 +4,10 @@ public class dummyclass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		public void thisIsANewMethod() {
-			System.Out.println("Krasse Line");
+<<<<<<< HEAD
+		public void thisIsANewMethod() { 
+			System.out.println("Hello zwoara");
+>>>>>>> e6e2bb1cff6880cbc0d28469bd84b340147cbff6
 		}
 	}
 //haweduttn du nuttn
