@@ -9,6 +9,7 @@ public class dummyclass {
 			System.out.println("Hello zwoara");
 >>>>>>> e6e2bb1cff6880cbc0d28469bd84b340147cbff6
 		}
+		// alles pipifein
 	}
 //haweduttn du nuttn
 }
